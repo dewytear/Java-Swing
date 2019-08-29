@@ -1,4 +1,4 @@
-package swing.pk27;
+package swing.pk27_components;
 
 import java.awt.*;
 import javax.swing.*;

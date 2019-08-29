@@ -1,4 +1,4 @@
-package swing.pk29;
+package swing.pk29_layout;
 
 import java.awt.*;
 import javax.swing.*;
