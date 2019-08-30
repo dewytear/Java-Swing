@@ -1,4 +1,4 @@
-package swing.pk35_thread;
+package thread.pk35_thread;
 
 public class ThreadTest {
 
