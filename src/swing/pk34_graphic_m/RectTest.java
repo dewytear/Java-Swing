@@ -16,8 +16,6 @@ public class RectTest extends JFrame {
 		g.drawLine(50,50,100,250);
 		g.drawRoundRect(100,40,90,55,50,50);
 		g.fillRoundRect(200,40,90,55,30,30);
-		
-
 		g.fill3DRect(100, 150, 90, 55, true);
 	}
 
